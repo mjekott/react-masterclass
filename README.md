@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+yarn add eslint eslint-config-react   eslint-import-resolver-typscript eslint-plugin-import eslint-plugin-import eslint-plugin-prettier eslint-plugin-react prettier -D
+
+eslint --init
+npm i eslint-import-resolver-typescript
 
 ## Available Scripts
 
